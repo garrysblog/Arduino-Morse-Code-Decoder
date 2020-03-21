@@ -14,6 +14,15 @@ More details of the project are available on my blog [garrysblog.com](https://ga
 
 Author Garry Edmonds
 
+## Status
+### What works
+ - Manual mode with clear signal
+ - Automatic speed tracking when there is not a large speed variation between transmitted signals, that is when the speed changes by more than 2
+
+## What doesn't
+ - When the infoming signal is noisy
+ - When there is significant differences between the length of characters and gaps. Where it is long gaps between characters display.
+
 ## Useful links used to develop this project
 Thanks to everyone that provides information online. For this project the resources were particulalry useful.
 
