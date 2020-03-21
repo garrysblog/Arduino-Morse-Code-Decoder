@@ -22,7 +22,7 @@ Author Garry Edmonds
  - Morse code timing https://military.wikia.org/wiki/Morse_code
  - Calculating speed http://www.kent-engineers.com/codespeed.htm
  
-###Filters
+### Filters
  - Low pass filters https://www.edn.com/a-simple-software-lowpass-filter-suits-embedded-system-applications/
     and https://www.electronics-tutorials.ws/filter/filter_2.html, http://www.learningaboutelectronics.com/Articles/Low-pass-filter-calculator.php
  - Band pass filters https://www.electronics-tutorials.ws/filter/filter_4.html
