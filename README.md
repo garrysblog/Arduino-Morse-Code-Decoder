@@ -10,7 +10,7 @@ The set length (in words per minute) and the actual speed of the last receved do
 
 There are other morse code to text decoders online. This is unlikely to be the best. It's just the result of a challenge I set myself.
 
-More details of the project are available on my blog [garrysblog.com](garrysblog.com)
+More details of the project are available on my blog [garrysblog.com](https://garrysblog.com)
 
 Author Garry Edmonds
 
