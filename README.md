@@ -1,6 +1,6 @@
 # Arduino-Morse-Code-Decoder
 
-![The Morse Code Decoder](images/front.jpg)
+![The Morse Code Decoder](images/Front.jpg)
 
 Using a microphone module connected to an Arudio nano, recieved pulses of morse code are convereted to plain text and and displayed on a 20x4 LCD module. 
 
