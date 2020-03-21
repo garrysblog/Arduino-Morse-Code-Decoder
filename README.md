@@ -8,9 +8,15 @@ Speed adjustment is set by a potentiometer to the sending speed of the morse or 
 
 The set length (in words per minute) and the actual speed of the last receved dot are displayed on the top line of the LCD display. The second and third line display the most recent characters of received morse in plain text. The bottom line displays the the most recent morse displayed as dots and dashes.
 
+There are other morse code to text decoders online. This is unlikely to be the best. It's just the result of a challenge I set myself.
+
+More details of the project are available on my blog [garrysblog.com](garrysblog.com)
+
 Author Garry Edmonds
 
 ## Useful links used to develop this project
+Thanks to everyone that provides information online. For this project the resources were particulalry useful.
+
 ### Libraries
  - I2C LCD display library https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
  - Faster LCD library hd44780. Info https://forum.arduino.cc/index.php?topic=470153.0 Library https://github.com/duinoWitchery/hd44780
