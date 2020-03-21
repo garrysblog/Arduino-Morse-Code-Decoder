@@ -19,7 +19,7 @@ Author Garry Edmonds
  - Manual mode with clear signal
  - Automatic speed tracking when there is not a large speed variation between transmitted signals, that is when the speed changes by more than 2
 
-## What doesn't
+### What doesn't
  - When the infoming signal is noisy
  - When there is significant differences between the length of characters and gaps. Where it is long gaps between characters display.
 
