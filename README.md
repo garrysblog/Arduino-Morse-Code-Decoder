@@ -28,9 +28,9 @@ Thanks to everyone that provides information online. For this project the resour
 
 ### Libraries
  - I2C LCD display library https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
- - Faster LCD library hd44780. Info https://forum.arduino.cc/index.php?topic=470153.0 Library https://github.com/duinoWitchery/hd44780
+ - Faster LCD library hd44780 used in the final version. Info https://forum.arduino.cc/index.php?topic=470153.0 Library https://github.com/duinoWitchery/hd44780
  - Info about hd44780 at duinoWitchery https://www.hackster.io/fmattiussi/how-to-use-a-hd44780-based-display-7ac730
-    and this https://fluxworkshop.com/blogs/getting-started/lets-workshop-20x4-lcd-module-and-i2c-adapter
+    and here https://fluxworkshop.com/blogs/getting-started/lets-workshop-20x4-lcd-module-and-i2c-adapter
  
 ### Morse code specifications
  - Morse code specifications https://en.wikipedia.org/wiki/Morse_code
@@ -41,7 +41,7 @@ Thanks to everyone that provides information online. For this project the resour
  - Low pass filters https://www.edn.com/a-simple-software-lowpass-filter-suits-embedded-system-applications/
     and https://www.electronics-tutorials.ws/filter/filter_2.html, http://www.learningaboutelectronics.com/Articles/Low-pass-filter-calculator.php
  - Band pass filters https://www.electronics-tutorials.ws/filter/filter_4.html
- - Filtering https://www.megunolink.com/articles/coding/3-methods-filter-noisy-arduino-measurements/
+ - More filtering https://www.megunolink.com/articles/coding/3-methods-filter-noisy-arduino-measurements/
  
 ### General Arduino
  - Dealing with a noisy interrupt signal https://forum.arduino.cc/index.php?topic=391811.30 and http://www.gammon.com.au/switches
