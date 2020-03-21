@@ -1,5 +1,7 @@
 # Arduino-Morse-Code-Decoder
 
+![The Morse Code Decoder](images/front.jpg)
+
 Using a microphone module connected to an Arudio nano, recieved pulses of morse code are convereted to plain text and and displayed on a 20x4 LCD module. 
 
 Speed adjustment is set by a potentiometer to the sending speed of the morse or alternatively the unit can be set to automatic mode. While auto mode attempts to track the speed, manual mode usually gives the best results.
